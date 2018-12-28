@@ -147,6 +147,6 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>springboot-demo</finalName>
+		<finalName>ssm-demo</finalName>
 	</build>
 </project>
