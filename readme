@@ -1,0 +1,7 @@
+
+
+配置文件
+1. spring与集成sping+mybatis相关配置,参考： spring-mybatis.xml
+2. springmvc配置参考： spring-mvc.xml
+3. mybatis可省略，如果徐配置参考：mybatis-config.xml
+4. 配置web.xml,里面包含spring启动类+ springmvc启动类
